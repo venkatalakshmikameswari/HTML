@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Phudu:wght@700&family=Rubik+Iso&display=swap");
+
+body {
+  font-family: "Phudu", cursive;
+}
+
+h1,
+h2 {
+  font-family: "Rubik Iso", cursive;
+}
